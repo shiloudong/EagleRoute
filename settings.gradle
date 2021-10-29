@@ -1,0 +1,7 @@
+include ':router-annotation'
+include ':router-complier'
+include ':router-api'
+include ':device'
+include ':home'
+include ':common'
+include ':app'
